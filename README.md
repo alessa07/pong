@@ -1,2 +1,2 @@
-# pong
-aula do dia 16
+# pongtwo
+Jogo pong no JavaScript
